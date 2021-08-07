@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://metrics.learnindialearn.in/sitemap.xml
